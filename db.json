@@ -1,5 +1,8 @@
 {
   "profile": {
-    "version": 4
+    "version": {
+      "code": 4
+      "name": "1.0.3"
+    }
   }
 }
